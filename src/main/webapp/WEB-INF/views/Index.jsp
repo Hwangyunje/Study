@@ -11,7 +11,7 @@
 	<c:import uri=/WEB-INF/views/template/nav.jsp/>
 	<c:import uri=/WEB-INF/views/template/header.jsp/>
 	<section>
-	이곳에입력
+	이곳에입력하시오
 	</section>
 	<c:import uri=/WEB-INF/views/tmeplate/footer.jsp/>
 	
