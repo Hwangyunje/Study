@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,12 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<c:import uri=/WEB-INF/views/template/nav.jsp/>
-	<c:import uri=/WEB-INF/views/template/header.jsp/>
-	<section>
-	이곳에입력하시오
-	</section>
-	<c:import uri=/WEB-INF/views/tmeplate/footer.jsp/>
-	
+<section>
+	이곳에입력하세요
+</section>
 </body>
 </html>
