@@ -490,7 +490,9 @@ progress {
   font-size: 1.25rem;
   font-weight: 300;
 }
-
+.login{
+	font-size:25;
+}
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
