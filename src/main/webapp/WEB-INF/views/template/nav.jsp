@@ -36,7 +36,7 @@
                         <input type="text" class="login">ID</input>
                         <input type="text" class="login">PASSWORD</input>
                         <button>로그인</button>
-                        <a href="member/memberJoin">회원가입</a>
+                        <a href="/member/memberJoin">회원가입</a>
                     	</div>
                     </form>
                 </div>
